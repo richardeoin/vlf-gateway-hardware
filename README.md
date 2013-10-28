@@ -2,7 +2,7 @@ EAGLE CAD Design files for the VLF Gateway Unit
 
 ## Photo
 
-[Gateway Unit](Gateway-Hardware.JPG)
+![Gateway Unit](Gateway-Hardware.JPG)
 
 ## Design Notes
 
